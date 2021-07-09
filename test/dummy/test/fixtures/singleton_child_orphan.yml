@@ -1,7 +1,0 @@
-one:
-  name: MyString
-  parent: one
-
-two:
-  name: MyString
-  parent: two
